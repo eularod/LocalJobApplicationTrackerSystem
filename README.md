@@ -1,1 +1,0 @@
-# LocalJobApplicationTrackerSystem
